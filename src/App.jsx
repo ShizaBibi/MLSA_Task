@@ -29,7 +29,7 @@ const siteProps = {
   email: "dilawaizpasha271@gmail.com",
   gitHub: "ShizaBibi",
   instagram: "",
-  linkedIn: "shizabibi",
+  linkedIn: "https://www.linkedin.com/in/shiza-bibi-098845255/",
   medium: "",
   twitter: "",
   youTube: "",
