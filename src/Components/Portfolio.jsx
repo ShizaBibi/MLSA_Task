@@ -34,13 +34,13 @@ const projectList = [
     title: "My Custom PC Configuration tool",
     description:
       "This is my code where I configure PC tools.",
-    url: "https://shizabibi.github.io/code/",
+    url: "https://github.com/ShizaBibi/code/blob/main/Custom_PC_Configuration_Tool.py",
   },
   {
     title: "Programming for Beginners",
     description:
       "This helps to build basic understanding in coding.",
-    url: "https://shizabibi.github.io/AICP-TASK-02/",
+    url: "https://github.com/ShizaBibi/AICP-TASK-02/blob/main/code",
   },
   {
     title: "",
